@@ -1,1 +1,1 @@
-#This is my image gallery project
+# This is my image gallery project
